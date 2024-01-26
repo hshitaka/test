@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center; /* Pour centrer les titres */
+}
+
+h1, h2 {
+    color: #ff00ff; /* Rose fluo */
+  font-size: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    background-color: #EF6C00; /* Bleu électrique */
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
